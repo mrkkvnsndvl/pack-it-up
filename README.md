@@ -1,6 +1,6 @@
-# PackItUp - Adventure Essentials Checklist
+# Pack it up - Adventure Essentials Checklist
 
-PackItUp is a web application designed to help you organize and manage the items you need to bring for your adventures, ensuring you're well-prepared for any journey. Whether it's a weekend camping trip or a long backpacking expedition, PackItUp has got you covered.
+Pack it up is a web application designed to help you organize and manage the items you need to bring for your adventures, ensuring you're well-prepared for any journey. Whether it's a weekend camping trip or a long backpacking expedition, PackItUp has got you covered.
 
 ## Table of Contents
 
