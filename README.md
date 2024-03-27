@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PackItUp - Adventure Essentials Checklist
 
-## Getting Started
+PackItUp is a web application designed to help you organize and manage the items you need to bring for your adventures, ensuring you're well-prepared for any journey. Whether it's a weekend camping trip or a long backpacking expedition, PackItUp has got you covered.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Features](#features)
+- [Usage](#usage)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Create and manage a checklist of items you need to bring.
+- Specify the quantity of each item to avoid overpacking or forgetting essentials.
+- Check off items as you pack them into your bag for a visual progress indicator.
+- Easily sort your checklist to suit your packing preferences.
+- Clear your checklist with one click after your adventure is complete.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Usage
 
-## Learn More
+1. **Adding Items:**
 
-To learn more about Next.js, take a look at the following resources:
+   - Click on the "LIST..." input.
+   - Enter the name of the item and the quantity you want to bring.
+   - Click "Add" to add the item to your checklist.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Packing Items:**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   - As you pack an item, click the check icon next to the item to mark it as packed.
 
-## Deploy on Vercel
+3. **Sorting Items:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   - Use the sorting options to arrange packed item to the last.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. **Clearing the List:**
+
+   - Click the "CLEAR" button to remove all item from your checklist when your packing is complete.
+
+## Contact
+
+- If you have any questions or feedback, please feel free to contact me at [Contact Me](mailto:sandoval.markkevin.j@gmail.com)
+
+## Credits
+
+- Mark Kevin J. Sandoval
