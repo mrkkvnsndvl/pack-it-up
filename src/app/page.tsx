@@ -34,11 +34,11 @@ export default function Home() {
               key={id}>
               <div className='overflow-hidden'>
                 <Image
-                  className='w-auto h-auto transition-all duration-300 group-hover:scale-110'
+                  className='w-full h-full transition-all duration-300 group-hover:scale-110'
                   src={src}
                   alt='How to use Pack it up'
-                  width={400}
-                  height={400}
+                  width={1080}
+                  height={1080}
                   priority={true}
                 />
               </div>
